@@ -1,0 +1,135 @@
+body{
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(images/back.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.login-box{
+    max-width:700px;
+    float: none;
+    margin: 10px auto;
+}
+.login-box1{
+    max-width:800px;
+    float: none;
+    margin: 10px auto;
+}
+.login-box2{
+    max-width:1200px;
+    float: none;
+    margin: 10px auto;
+}
+.login-left{
+    background: rgba(248, 212, 212, 0.5);
+    padding: 100px;
+    margin-left: 100px;
+}
+
+.login-right{
+    background: rgb(238, 208, 208);
+    padding: 30px;
+    
+}
+textarea {
+    width: 500px;
+    height: 200px;
+  }
+.form-control{
+    background-color: transparent !important;
+}
+
+a{
+    color: rgb(0, 0, 0) !important;
+    margin-top: -200px !important;
+}
+
+h1{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align:center;
+    text-transform:uppercase;
+}
+h2{
+    color: rgba(55, 0, 255, 0.445) !important;
+    text-align:center;
+    text-transform:uppercase;
+}
+align{
+    color: #fff ;
+    margin-top: 123px ;
+}
+div.teacher{
+    width:600px;
+    height:600px;
+    margin-left: auto;
+    background-color: rgb(3, 77, 42)
+}
+div.teachers{
+    width:1000px;
+    height:600px;
+    background-color: rgb(196, 236, 252);
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+div.preview{
+    width:650px;
+    height:650px;
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(images/back2.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 520px;
+    margin-top: 90px;
+}
+
+div.biodata{
+    width:635px;
+    height:220px;
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(images/text2.png);
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+div.biotext{
+    width:570px;
+    height:200px;
+    background: transparent;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+div.ex1 {
+    width:100px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border: 3px solid #73AD21;
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(images/text2.png);
+  }
+
+  div.searchbox{
+    width:1000px;
+    height:600px;
+    background-color: rgb(196, 236, 252);
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.styled-select select {
+    background: rgb(218, 152, 235);
+    width: 240px;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1;
+    border: 3px solid rgb(5, 5, 5);
+    border-radius: 1px;
+    height: 40px;
+    -webkit-appearance: none;
+ }
+ div.contain{
+    width:570px;
+    height:200px;
+    background: transparent;
+    margin-left: 580px;
+    margin-top: 0px;
+    
+ }
+ 
